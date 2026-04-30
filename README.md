@@ -16,7 +16,7 @@
 
 <br/>
 
-![App Preview](https://via.placeholder.com/900x450/1a1a2e/ffffff?text=🚗+Car+Price+Prediction+App)
+![App Preview](https://carpricepedictionapp-cujodkkwdng7pid3cpv9dr.streamlit.app/text=🚗+Car+Price+Prediction+App)
 
 </div>
 
